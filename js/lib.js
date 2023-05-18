@@ -1,10 +1,9 @@
-export let yourName = "C";
+export let yourName = "Jose";
 
-export function squareValue(n) {
-    return n*n;
+export function squareValue(n){
+    return n * n;
 }
 
-
-function halfof(x){
-    return x/2;
+export function halfOf(x){
+    return x / 2;
 }
